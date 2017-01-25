@@ -7,3 +7,7 @@
 *.ncb
 *.user
 *.old
+*.aps
+*.suo
+*.xml
+
