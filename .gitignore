@@ -1,0 +1,9 @@
+*.obj
+*.sbr
+*.asm
+*.bsc
+*.am
+*.diff
+*.ncb
+*.user
+*.old
