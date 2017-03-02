@@ -129,10 +129,6 @@ Bit32s ticksDone;
 Bit32u ticksScheduled;
 bool ticksLocked;
 
-extern "C" int __imp___CrtDbgReportW()
-{
-	return 0;
-}
 static Bitu Normal_Loop(void) {
 	Bits ret;
 	while (1) {
